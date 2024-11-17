@@ -8,8 +8,8 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Create learning plan
+      link: /docs/01-learning-plan
     - theme: alt
       text: API Examples
       link: /api-examples
