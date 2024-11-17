@@ -11,6 +11,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
+    appearance: 'dark',
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
