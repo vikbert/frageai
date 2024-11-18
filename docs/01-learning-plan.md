@@ -145,3 +145,29 @@ can understand.
 
 :::
 
+## Summary content of book
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+Erkläre dein_Thema in einfachen und leicht verständlichen Worten, 
+sodass jeder Anfänger es verstehen kann.
+```
+
+== English 🇬🇧
+
+```md
+Summarize the book __book_name__ by the author __author_name__ and
+give me a list of the most important learnings and insights.
+
+```
+
+== Chinese 🇨🇳
+
+```md
+请用简单易懂的语言解释__你的主题__，让任何初学者都能理解。
+```
+
+:::

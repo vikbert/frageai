@@ -3,7 +3,7 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Frageai',
+  title: 'FrageAI',
   description: 'AI prompt guide',
   markdown: {
     config(md) {
@@ -11,14 +11,17 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    appearance: 'dark',
-    logo: '/logo.svg',
+    logo: './logo.webp',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' },
     ],
 
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2024-present Xun Zhou',
+    },
     // sidebar: [
     //   {
     //     text: 'Examples',
