@@ -6,7 +6,7 @@ hero:
   name: "Frage AI"
   text: "AI prompt guide - formuliere genauer"
   image: 
-    src: "./logo.webp"
+    src: "/logo.webp"
     alt: FrageAI
   tagline: 
   actions:

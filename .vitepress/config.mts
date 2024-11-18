@@ -11,7 +11,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: './logo.webp',
+    logo: '/logo.webp',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
