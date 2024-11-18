@@ -1,5 +1,5 @@
 
-## Create learning plan
+## Lernplan erstellen
 
 :::tabs
 == German 🇩🇪
@@ -26,7 +26,7 @@ improve this skill.
 ```
 :::
 
-## Generate prompt by AI
+## Eingabeaufforderung durch AI generieren
 
 :::tabs
 
@@ -54,7 +54,9 @@ __your_topic__.
 ```
 :::
 
-## Generate 80/20 learning plan
+## Erstellung eines 80/20-Lernplans
+
+Der `80/20-Lernplan` basiert auf dem Pareto-Prinzip, das besagt, dass 80% der Ergebnisse oft aus nur 20% des Aufwands oder der Aktivitäten kommen. Im Kontext des Lernens bedeutet das, dass du dich auf die wichtigsten `20%` des Materials konzentrieren solltest, um `80%` des Wissens zu erlangen.
 
 :::tabs
 
@@ -84,7 +86,7 @@ important 20% ofleanings from this topic that will help me understand
 :::
 
 
-## Proofread Writing mistakes
+## Korrekturlesen
 
 :::tabs
 
@@ -118,7 +120,7 @@ here_your_text
 
 :::
 
-## Learning terms in easy way
+## Begriffe auf einfache Weise lernen
 
 :::tabs
 
@@ -145,7 +147,7 @@ can understand.
 
 :::
 
-## Summary content of book
+## Zusammenfassung des Inhalts des Buches
 
 :::tabs
 
@@ -172,7 +174,7 @@ give me a list of the most important learnings and insights.
 
 :::
 
-## Resolve problem by ChatGPT
+## Problem durch ChatGPT lösen
 
 :::tabs
 
@@ -231,6 +233,39 @@ or shouldn't make this decision.
 
 ```md
 我正在决定是否应该__your_decision__。给我一份优缺点清单，帮助我决定是否应该做出这个决定。
+```
+
+:::
+
+## Zusammenfassung von Artikel
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+Fassen Sie den untenstehenden Text zusammen und geben Sie mir eine Liste 
+mit Aufzählungspunkten, die die wichtigsten Erkenntnisse und Fakten enthalten:
+
+___hier_der_Text___
+```
+
+== English 🇬🇧
+
+```md
+Summarize the text below, and give me a list of bullet points with key
+insights and the most important facts:
+
+___here_the_long_text___
+
+```
+
+== Chinese 🇨🇳
+
+```md
+总结下面的文本，并给我一份要点列表，包含关键见解和最重要的事实:
+
+___here_the_text___
 ```
 
 :::
