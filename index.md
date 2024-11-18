@@ -12,6 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Quick start
+      link: 01-learning-plan
 
 features:
   - title: Präzise
