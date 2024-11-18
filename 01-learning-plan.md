@@ -152,8 +152,8 @@ can understand.
 == German 🇩🇪
 
 ```md
-Erkläre dein_Thema in einfachen und leicht verständlichen Worten, 
-sodass jeder Anfänger es verstehen kann.
+Fassen Sie das Buch book_name von dem Autor author_name zusammen 
+und geben Sie mir eine Liste der wichtigsten Erkenntnisse und Einsichten.
 ```
 
 == English 🇬🇧
@@ -167,7 +167,70 @@ give me a list of the most important learnings and insights.
 == Chinese 🇨🇳
 
 ```md
-请用简单易懂的语言解释__你的主题__，让任何初学者都能理解。
+请总结作者__author_name__的书《book_name》，并给我一份最重要的学习点和见解的清单。
+```
+
+:::
+
+## Resolve problem by ChatGPT
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+Geben Sie mir eine Schritt-für-Schritt-Lösung für das untenstehende 
+Problem mit klaren Anweisungen, wie jeder Schritt auszuführen ist:
+
+Hier_das_problem
+```
+
+== English 🇬🇧
+
+```md
+Give me a step by step solutions to the problem below with clear 
+instructions on how to execute each step:
+
+here_description_of_problem
+
+```
+
+== Chinese 🇨🇳
+
+```md
+给我一个逐步解决下面问题的方案，并提供清晰的执行每个步骤的说明:
+
+here_the_problem
+```
+
+:::
+
+## Bewertung der Entscheidung
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+Ich versuche zu entscheiden, ob ich ___your_decision____ treffen soll. 
+Gib mir eine Liste von Vor- und Nachteilen, die mir helfen werden, 
+zu entscheiden, warum ich diese Entscheidung treffen oder nicht 
+treffen sollte.
+```
+
+== English 🇬🇧
+
+```md
+I am trying to decide if I should __your_decision__. Give me
+a list of pros and cons that will help me decide why I should
+or shouldn't make this decision.
+
+```
+
+== Chinese 🇨🇳
+
+```md
+我正在决定是否应该__your_decision__。给我一份优缺点清单，帮助我决定是否应该做出这个决定。
 ```
 
 :::
