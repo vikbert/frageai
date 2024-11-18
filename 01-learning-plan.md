@@ -269,3 +269,68 @@ ___here_the_text___
 ```
 
 :::
+
+## Hilfe bei Überschriften
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+Ich schreibe einen Blogbeitrag über ___here_the_topic___. Mir fällt kein 
+einprägsamer Titel ein. Gib mir eine Liste mit 5 Vorschlägen für 
+den Blogtitel dieses Beitrags.
+
+___hier_der_Text___
+```
+
+== English 🇬🇧
+
+```md
+I am writing a blog post about ___here_the_topic___. I can't come up with a 
+catchy title. Give me a list of 5 suggestions for the blot title for this piece.
+
+___here_the_long_text___
+
+```
+
+== Chinese 🇨🇳
+
+```md
+我正在写一篇关于___here_the_topic___的博客文章。我想不出一个吸引人的标题。
+给我一个包含5个建议的博客标题列表。
+
+___here_the_text___
+```
+
+:::
+
+## Von den Besten lernen
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+Analysiere die Spitzenleistungsträger im Bereich ___the_field_of_work___. 
+Gib mir eine Liste der wichtigsten Lektionen, die ich von diesen 
+Spitzenperformern lernen kann, um meine Produktivität zu steigern.
+
+```
+
+== English 🇬🇧
+
+```md
+Analyze the top performers in ___the field_of_work___. Give me a list of
+the most important lessions I can learn from these top performers to boost
+my productivity.
+```
+
+== Chinese 🇨🇳
+
+```md
+分析___the_field_of_work___领域的顶尖表现者。给我一份我可以从这些顶尖
+表现者身上学到的最重要的教训，以提高我的生产力
+```
+
+:::
