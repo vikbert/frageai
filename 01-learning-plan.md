@@ -71,9 +71,9 @@ teile die wichtigsten 20% der Inhalte zu diesem Thema, die mir helfen,
 == English 🇬🇧
 
 ```md
-I want to learn about __your_topic__. I dentify and share the most
-important 20% ofleanings from this topic that will help me understand
-80% of it.
+I want to learn about __your topic__. Please identify and share 
+the most important 20% from this topic. 
+This will help me understand 80% of it.
 ```
 
 == Chinese 🇨🇳
@@ -331,6 +331,37 @@ my productivity.
 ```md
 分析___the_field_of_work___领域的顶尖表现者。给我一份我可以从这些顶尖
 表现者身上学到的最重要的教训，以提高我的生产力
+```
+
+:::
+
+## Wie erstellt man Inhalte in Form von
+
+:::tabs
+
+== German 🇩🇪
+
+```md
+
+```
+
+== English 🇬🇧
+
+```md
+Topic: how to write persuasively
+Audience: business executive
+Format: speech
+Tone: Educational and inspiring
+Goal: inspire the audience to write effectively
+Additional instructions: the speech should be under 15 minutes
+
+
+```
+
+== Chinese 🇨🇳
+
+```md
+
 ```
 
 :::
